@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/hamdi-zaghouan-98671b32a" target="_blank"><img align="center" src="./img/in.png" style="width:40px"  alt="LinkedIn"/></a>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hamdizaghouan21166@gmail.com" target="_blank"><img align="center" src="./img/env.png" style="width:45px"  alt="Email"/></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hamdizaghouan21166@gmail.com" target="_blank"><img align="center" src="./img/env.png" style="width:45px"  alt="Email"/></a>
 </p>
 <p align="center">
   <img src="https://i.giphy.com/Ws6T5PN7wHv3cY8xy8.webp" width="500px" height="auto" alt="Coding"/>
