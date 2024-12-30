@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hamdi-zaghouan-98671b32a" target="_blank"><img align="center" src="./img/env.png" style="width:40px"  alt="Email"/></a>
+  <a href="mailto:hamdizaghouan21166@gmail.com" target="_blank"><img align="center" src="./img/env.png" style="width:40px"  alt="Email"/></a>
 </p>
 <p align="center">
   <img src="https://i.giphy.com/Ws6T5PN7wHv3cY8xy8.webp" width="500px" height="auto" alt="Coding"/>
