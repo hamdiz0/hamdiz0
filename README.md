@@ -22,19 +22,21 @@
 <p align="center">And currently learning Devops</p>
 <br>
 <h2 align="left">Languages and Tools :</h2>
-<table align="center"> 
+<table align="center">
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>&nbsp;HTML&nbsp;&nbsp;</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="65" height="65" alt="Git"/><br><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="65" height="65" alt="GitHub"/><br><b>&nbsp;&nbsp;GitHub&nbsp;&nbsp;</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="65" height="65" alt="Docker"/><br><b>&nbsp;&nbsp;Docker&nbsp;&nbsp;</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="65" height="65" alt="AWS"/><br><b>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="65" height="65" alt="Kubernetes"/><br><b>Kubernetes</b></td>
    <td align="center"><img src="https://www.sparks-formation.com/wp-content/uploads/2020/07/jenkins.png" width="65" height="70" alt="Jenkins"/><br><b>&nbsp;&nbsp;Jenkins&nbsp;&nbsp;</b></td>
-  <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="65" height="65" alt="Docker"/><br><b>&nbsp;&nbsp;Docker&nbsp;&nbsp;</b></td>
-  <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="65" height="65" alt="AWS"/><br><b>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
-  <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="65" height="65" alt="Kubernetes"/><br><b>Kubernetes</b></td>
-  <td align="center"><img src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" width="65" height="65" alt="Vagrant"/><br><b>&nbsp;Vagrant&nbsp;</b></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="65" height="65" alt="VirtualBox"/><br><b>VirtualBox</b></td>
-  <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="65" height="65" alt="Linux"/><br><b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;</b></td>
+   <td align="center"><img src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" width="65" height="65" alt="Vagrant"/><br><b>&nbsp;Vagrant&nbsp;</b></td>
+   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="65" height="65" alt="VirtualBox"/><br><b>VirtualBox</b></td>
+   <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="65" height="65" alt="Linux"/><br><b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;</b></td>
 </tr>
 </table>
 <br>
