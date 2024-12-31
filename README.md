@@ -41,11 +41,11 @@
 </table>
 <br>
 <div align="center">
-<a href="https://github.com/hamdiz0/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=Learning-Devops&theme=transparent" alt="C++"></a>
+<a href="https://github.com/hamdiz0/Learning-Devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=LearningDevops&theme=transparent"></a>
 <a href="https://github.com/hamdiz0/qr-code-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=qr-code-generator&theme=transparent"></a>
 <a href="https://github.com/hamdiz0/vote-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=vote-app&theme=transparent" ></a>
-<a href="https://github.com/hamdiz0/employee-directory-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=employee-directory-app&theme=transparent" ></a>
-<a href="https://github.com/hamdiz0/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=online-boutique-app&theme=transparent" ></a>
+<a href="https://github.com/hamdiz0/employee-directory-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=employee-directory-app-aws&theme=transparent" ></a>
+<a href="https://github.com/hamdiz0/online-boutique-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=online-boutique-app&theme=transparent" ></a>
 <a href="https://github.com/hamdiz0/java-maven-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdiz0&repo=java-maven-app&theme=transparent"></a>
 </div>
 <br>
