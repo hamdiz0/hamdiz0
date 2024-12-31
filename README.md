@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://i.giphy.com/Ws6T5PN7wHv3cY8xy8.webp" width="500px" height="auto" alt="Coding"/>
 </p>
-<p align="justify">A high school student passionate about DevOps. As a self-taught programmer and tech enthusiast, I'm currently learning DevOps and exploring new technologies. Eager to learn and explore, I delve into concepts like continuous integration, automation, and cloud services. Looking forward to new challenges and collaborations in this field</p>
+<p align="justify">A university student passionate about DevOps. As a self-taught programmer and tech enthusiast, I'm currently learning DevOps and exploring new technologies. Eager to learn and explore, I delve into concepts like continuous integration, automation, and cloud services. Looking forward to new challenges and collaborations in this field</p>
 
 <h2 align="left" style="font-size:20px">I'am Intrested in :</h2>
 <p align="center">
