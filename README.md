@@ -34,7 +34,8 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="65" height="65" alt="AWS"/><br><b>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="65" height="65" alt="Kubernetes"/><br><b>Kubernetes</b></td>
    <td align="center"><img src="https://www.sparks-formation.com/wp-content/uploads/2020/07/jenkins.png" width="65" height="70" alt="Jenkins"/><br><b>&nbsp;&nbsp;Jenkins&nbsp;&nbsp;</b></td>
-   <td align="center"><img src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" width="65" height="65" alt="Vagrant"/><br><b>&nbsp;Vagrant&nbsp;</b></td>
+   <td align="center"><img src="./img/ter.png" width="65" height="65" alt="Terrraform"/><br><b>Terrafrom</b></td>
+   <td align="center"><img src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" width="65" height="65" alt="Vagrant"/><br><b>&nbsp;&nbsp;Vagrant&nbsp;&nbsp;</b></td>
    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="65" height="65" alt="VirtualBox"/><br><b>VirtualBox</b></td>
    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="65" height="65" alt="Linux"/><br><b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;</b></td>
 </tr>
