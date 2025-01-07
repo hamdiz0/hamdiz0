@@ -1,6 +1,6 @@
 <h1 align="center">HI, I'm HAMDI</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=3E6FF4&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=A+Devops+Enthusiast" width="auto" height="35" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E6FF4&size=30&center=true&vCenter=true&width=450&duration=1500&pause=3000&lines=A+Devops+Enthusiast" width="auto" height="35" alt="Typing"/>
 </p>
 <p align="center">
   <a href="https://hamdiz-portfolio.vercel.app/"><img align="center" src="./img/hz.png" style="width:40px;padding-bottom:4px"  alt="Porfolio"/></a>
